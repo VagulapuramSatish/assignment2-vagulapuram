@@ -16,3 +16,20 @@ Switzerland, officially the **Swiss Confederation**, is a **landlocked country**
   * Biscuits
 
 **[AboutMe](AboutMe.md)**
+
+---
+
+## tables
+
+This table shows the data related to my favourite food items. Which I would recommend others.
+
+|FOOD|LOCATION|AMOUNT|
+|---|---|---|
+|Biryani|Bawarchi|$15|
+|Ras malai|Radhe Sweet Shop|$5|
+|Paneer Butter masala with butter naans|Santhosh Dhaba|$20|
+|Butter Chicken|N village|$10|
+|Chocolate Cake ice-cream|Masquti|$10|
+|Lassy|Galaxy lassi point|$5|
+
+
