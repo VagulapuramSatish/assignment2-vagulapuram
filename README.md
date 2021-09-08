@@ -46,8 +46,8 @@ This table shows the data related to my favourite food items. Which I would reco
 
 ## Code Fencing
 
-  struct Montgomery {
-     Montgomery(u128 n) : mod(n), inv(1), r2(-n % n) {
+   struct Montgomery {
+      Montgomery(u128 n) : mod(n), inv(1), r2(-n % n) {
          for (int i = 0; i < 7; i++)
              inv *= 2 - n * inv;
 
@@ -110,7 +110,7 @@ This table shows the data related to my favourite food items. Which I would reco
      else
          return S
      end if
- end function
+  end function
 
  [Code Source](https://en.wikipedia.org/wiki/Montgomery_modular_multiplication)
 
