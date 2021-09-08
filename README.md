@@ -8,3 +8,10 @@ Switzerland, officially the **Swiss Confederation**, is a **landlocked country**
 2. First go to the Kansas city international airport by road ways.
    1. Book a flight from Kansas city to Switzerland.
 3. After that, I will reach my favourite Destination.
+
+* Some clothes
+* Hat
+* Food
+  * Snacks
+  * Biscuits
+
