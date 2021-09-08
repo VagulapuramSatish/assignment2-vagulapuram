@@ -46,6 +46,7 @@ This table shows the data related to my favourite food items. Which I would reco
 
 ## Code Fencing
 
+```
   struct Montgomery {
       Montgomery(u128 n) : mod(n), inv(1), r2(-n % n) {
          for (int i = 0; i < 7; i++)
@@ -67,9 +68,13 @@ This table shows the data related to my favourite food items. Which I would reco
      u128 mod, inv, r2;
  }
 
+```
+
  >Montgomery modular multiplication relies on a special representation of numbers called Montgomery form. The algorithm uses the Montgomery forms of a and b to efficiently compute the Montgomery form of ab mod N. The efficiency comes from avoiding expensive division operations. Classical modular multiplication reduces the double-width product ab using division by N and keeping only the remainder. This division requires quotient digit estimation and correction. The Montgomery form, in contrast, depends on a constant R > N which is coprime to N, and the only division necessary in Montgomery multiplication is division by R. The constant R can be chosen so that division by R is easy, significantly improving the speed of the algorithm. In practice, R is always a power of two, since division by powers of two can be implemented by bit shifting.
 
  [Montgomery multiplication](https://en.wikipedia.org/wiki/Montgomery_modular_multiplication)
+
+```
 
     function MultiPrecisionREDC is
       Input: Integer N with gcd(B, N) = 1, stored as an array of p words,
@@ -112,6 +117,7 @@ This table shows the data related to my favourite food items. Which I would reco
      end if
 end function
 
+```
  [Code Source](https://en.wikipedia.org/wiki/Montgomery_modular_multiplication)
 
 
