@@ -32,4 +32,14 @@ This table shows the data related to my favourite food items. Which I would reco
 |Chocolate Cake ice-cream|Masquti|$10|
 |Lassy|Galaxy lassi point|$5|
 
+---
+
+## My Quotes
+
+>You cannot believe in God until you believe in yourself.
+-*Swami Vivekananda*
+
+>Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+-*Steve Jobs*
+
 
